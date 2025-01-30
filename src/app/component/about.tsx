@@ -28,9 +28,9 @@ const About = () => {
      Email:nonikhan@f1gmail.com
       </p>
       <p className="mb-5 leading-relaxed">
-        I did my bachelor's degree from the esteemed  Sir Syed Govt Girls College.i furthered my education with a professional 
-        B.ED degree from karachi university.currently,i'm expanding my skillset in web development at GIAIC.
-        I'm a lifelong learner ,always eager to acquire new knowledge and experiences.
+        I did my bachelor&lsquo;s degree from the esteemed  Sir Syed Govt Girls College.i furthered my education with a professional 
+        B.ED degree from karachi university.currently,i&lsquo;m expanding my skillset in web development at GIAIC.
+        I&lsquo;m a lifelong learner ,always eager to acquire new knowledge and experiences.
       </p>
       <div className="flex justify-center">
         <a href={"/image/cv.jpg"}>

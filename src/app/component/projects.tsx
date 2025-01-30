@@ -43,7 +43,7 @@ const Projects = () => {
          {/*Projects */}
          <div className="lg:w-1/3 sm:w-1/2 p-4 cursor-pointer">
         <div className="flex relative">
-          <img
+        <img
             alt="gallery"
             className="absolute inset-0 w-full h-full object-cover object-center"
             src={'/image/car website.png'}
@@ -72,7 +72,7 @@ const Projects = () => {
          {/*Projects */}
          <div className="lg:w-1/3 sm:w-1/2 p-4 cursor-pointer">
         <div className="flex relative">
-          <img
+        <img
             alt="gallery"
             className="absolute inset-0 w-full h-full object-cover object-center"
             src={'/image/rental website.png'}

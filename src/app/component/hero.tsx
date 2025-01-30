@@ -24,7 +24,11 @@ const Hero = () => {
       </h1>
       <div className="w-[100px] h-[2px] bg-blue-700"></div>
       <p className="mb-8 leading-relaxed">
-      I'm a versatile software developer with expertise in web development, UX/UI design, and frontend development. Currently, I'm focused on building cutting-edge applications using React and Next.js frameworks. With a passion for innovative design and seamless user experiences, I craft solutions that drive engagement and results. Proficient in merging creativity with technical skills, I deliver high-quality, responsive, and scalable digital products.
+      I&lsquo;m a versatile software developer with expertise in web development, UX/UI design, and frontend development. Currently, I&lsquo;m focused on building cutting-edge applications using React and Next.js
+       frameworks. With a passion for innovative design and seamless user experiences,
+        I craft solutions that drive engagement and results. Proficient in
+         merging creativity with technical skills, I deliver high-quality, 
+         responsive, and scalable digital products.
       </p>
       <div className="flex justify-center">
         <Link href={"#Contact"}>
